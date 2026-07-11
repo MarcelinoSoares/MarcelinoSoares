@@ -1,80 +1,85 @@
 <div align="center">
-  <img src="./assets/marcelino-soares.jpg" width="180" alt="Retrato de Marcelino Soares" />
+  <img src="./assets/marcelino-soares.jpg" width="176" alt="Portrait of Marcelino Soares" />
 
   # Marcelino Soares
 
-  ### Quality Engineering · Agile Testing · Software Craft
+  ### Senior SDET · Quality Engineering for APIs, Microservices & GenAI Systems
 
-  **Qualidade não é etapa final. É cultura de entrega.**
+  **Quality is not a final phase. It is a delivery culture.**
 
-  [LinkedIn](https://www.linkedin.com/in/marcelinosoares) · [E-mail](mailto:marcelino.deoliveira91@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/marcelinosoares) · [Email](mailto:marcelino.deoliveira91@gmail.com)
 </div>
 
 ---
 
-## Sobre
+## About
 
-Engenheiro de testes, formado em Ciência da Computação, com foco em conectar estratégia, execução e colaboração. Integro qualidade ao fluxo de desenvolvimento desde as primeiras decisões para que produtos cheguem às pessoas com mais confiança, clareza e valor.
+I build quality into software systems as an engineering discipline—not as a final testing phase.
 
-Baseado em Recife, Pernambuco · Pessoa com deficiência (PCD) · Brasil
+I focus on test architecture for APIs, microservices, and GenAI systems, designing quality gates, reliability pipelines, and CI/CD workflows that help teams ship with confidence. Based in Recife, Brazil.
 
-## Atuação
+## What I work on
 
-### Estratégia de qualidade
+| Area | Focus |
+| :-- | :-- |
+| **Test Architecture & Strategy** | Risk-based test design, quality signals, and fast feedback loops. |
+| **API & Microservices Quality** | Contract testing, service reliability, and integration confidence. |
+| **GenAI Evaluation** | LLM and RAG quality evaluation, prompt regression, and hallucination risk. |
+| **Quality Enablement** | Maintainable automation, CI/CD gates, and collaborative quality practices. |
 
-Planejo e evoluo estratégias de testes orientadas a risco, contexto e valor de negócio — transformando qualidade em uma responsabilidade compartilhada.
+---
 
-### Testes ágeis
+## Featured work
 
-Atuo junto aos times desde o refinamento até a entrega, combinando testes funcionais, exploratórios, de regressão e de aceitação em ciclos curtos.
+### [genai-quality-eval](https://github.com/MarcelinoSoares/genai-quality-eval)
 
-### Automação sustentável
+CI-ready quality gates for LLM and RAG systems: response-quality scoring, hallucination-risk detection, retrieval metrics, latency SLAs, and prompt regression testing.
 
-Desenvolvo e mantenho testes automatizados confiáveis, com foco em feedback rápido, legibilidade e manutenção saudável.
+### [contract-testing-microservices](https://github.com/MarcelinoSoares/contract-testing-microservices)
 
-### Cultura e aprendizado
+Consumer-driven contract testing with Pact JVM for Java and Spring Boot microservices, including CI/CD quality gates and consumer/provider workflow separation.
 
-Compartilho conhecimento, questiono premissas e incentivo práticas que fortalecem pessoas, produtos e decisões técnicas.
+### [playwright-actions](https://github.com/MarcelinoSoares/playwright-actions)
+
+Production-style end-to-end test automation with Playwright, TypeScript, and a GitHub Actions CI pipeline.
 
 ---
 
 ## Stack
 
-| Foco | Tecnologias e ferramentas |
+| Focus | Technologies |
 | :-- | :-- |
-| **Linguagens** | Java · Python · JavaScript · HTML · CSS |
-| **Testes** | Selenium · Cucumber |
-| **Ferramentas** | Git · GitHub · VS Code · IntelliJ IDEA |
+| **Languages** | Python · Java · TypeScript · JavaScript |
+| **Testing** | Playwright · Cypress · Selenium · Cucumber · Pact |
+| **Engineering** | Spring Boot · GitHub Actions · Docker · Git |
 
 <div align="center">
-  <a href="https://skillicons.dev" aria-label="Tecnologias e ferramentas">
-    <img src="https://skillicons.dev/icons?i=java,python,js,selenium,html,css,git,github,vscode,idea&perline=10&theme=dark" alt="Java, Python, JavaScript, Selenium, HTML, CSS, Git, GitHub, VS Code e IntelliJ IDEA" />
+  <a href="https://skillicons.dev" aria-label="Technology stack">
+    <img src="https://skillicons.dev/icons?i=python,java,ts,js,playwright,selenium,spring,docker,git,githubactions&perline=10&theme=dark" alt="Python, Java, TypeScript, JavaScript, Playwright, Selenium, Spring, Docker, Git and GitHub Actions" />
   </a>
 </div>
 
 ---
 
-## GitHub em números
+## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarcelinoSoares&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Marcelino Soares" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcelinoSoares&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Linguagens mais usadas por Marcelino Soares" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarcelinoSoares&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&include_all_commits=true&count_private=true" alt="GitHub statistics for Marcelino Soares" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcelinoSoares&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most-used languages by Marcelino Soares" />
 </div>
 
-## Contribuições
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcelinoSoares&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" alt="Gráfico de contribuições de Marcelino Soares" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcelinoSoares&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" alt="Contribution graph for Marcelino Soares" />
 </div>
 
 ---
 
 <div align="center">
 
-### Vamos construir qualidade desde o início?
+### Build reliable software from the start.
 
-Se você acredita em entregas confiáveis, colaboração e melhoria contínua, vamos conversar.
+If you care about engineering quality, delivery confidence, and continuous improvement, let's connect.
 
-[Conectar no LinkedIn](https://www.linkedin.com/in/marcelinosoares) · [Enviar e-mail](mailto:marcelino.deoliveira91@gmail.com)
+[Connect on LinkedIn](https://www.linkedin.com/in/marcelinosoares) · [Send an email](mailto:marcelino.deoliveira91@gmail.com)
 
 </div>
