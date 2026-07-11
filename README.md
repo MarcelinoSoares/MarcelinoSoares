@@ -1,65 +1,80 @@
 <div align="center">
+  <img src="./assets/marcelino-soares.jpg" width="180" alt="Retrato de Marcelino Soares" />
 
-# Marcelino Soares
+  # Marcelino Soares
 
-**Senior SDET | Quality Engineering for APIs, Microservices & GenAI Systems**
+  ### Quality Engineering · Agile Testing · Software Craft
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelinosoares)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelino.deoliveira91@gmail.com)
+  **Qualidade não é etapa final. É cultura de entrega.**
 
+  [LinkedIn](https://www.linkedin.com/in/marcelinosoares) · [E-mail](mailto:marcelino.deoliveira91@gmail.com)
 </div>
 
 ---
 
-## About
+## Sobre
 
-I build quality into software systems as an engineering discipline — not as a final testing phase.
+Engenheiro de testes, formado em Ciência da Computação, com foco em conectar estratégia, execução e colaboração. Integro qualidade ao fluxo de desenvolvimento desde as primeiras decisões para que produtos cheguem às pessoas com mais confiança, clareza e valor.
 
-Focused on test architecture for APIs, microservices, and GenAI systems. I design quality gates, reliability pipelines, and CI/CD workflows that give teams confidence to ship fast.
+Baseado em Recife, Pernambuco · Pessoa com deficiência (PCD) · Brasil
 
----
+## Atuação
 
-## Featured Work
+### Estratégia de qualidade
 
-### [genai-quality-eval](https://github.com/MarcelinoSoares/genai-quality-eval)
-CI-ready quality gates for LLM and RAG systems. Covers response quality scoring, hallucination risk detection, retrieval metrics, latency SLAs, and prompt regression testing. Built with Python, pytest, Ruff, mypy, and GitHub Actions.
+Planejo e evoluo estratégias de testes orientadas a risco, contexto e valor de negócio — transformando qualidade em uma responsabilidade compartilhada.
 
-### [contract-testing-microservices](https://github.com/MarcelinoSoares/contract-testing-microservices)
-Consumer-driven contract testing with Pact JVM for Java/Spring Boot microservices. Includes CI/CD quality gates, JaCoCo coverage enforcement, consumer/provider workflow separation, and optional Pact Broker integration.
+### Testes ágeis
 
-### [playwright-actions](https://github.com/MarcelinoSoares/playwright-actions)
-Production-style E2E test automation with Playwright, TypeScript, and GitHub Actions CI pipeline.
+Atuo junto aos times desde o refinamento até a entrega, combinando testes funcionais, exploratórios, de regressão e de aceitação em ciclos curtos.
 
----
+### Automação sustentável
 
-## Core Areas
+Desenvolvo e mantenho testes automatizados confiáveis, com foco em feedback rápido, legibilidade e manutenção saudável.
 
-- Test Architecture & Strategy
-- API and Microservices Quality
-- Consumer-Driven Contract Testing (Pact)
-- GenAI / LLM / RAG Evaluation
-- CI/CD Quality Gates
-- Test Automation Frameworks (Playwright, Cypress, Selenium)
-- Engineering Productivity
-- Reliability and Release Confidence
+### Cultura e aprendizado
+
+Compartilho conhecimento, questiono premissas e incentivo práticas que fortalecem pessoas, produtos e decisões técnicas.
 
 ---
 
-## Tech Stack
+## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+| Foco | Tecnologias e ferramentas |
+| :-- | :-- |
+| **Linguagens** | Java · Python · JavaScript · HTML · CSS |
+| **Testes** | Selenium · Cucumber |
+| **Ferramentas** | Git · GitHub · VS Code · IntelliJ IDEA |
+
+<div align="center">
+  <a href="https://skillicons.dev" aria-label="Tecnologias e ferramentas">
+    <img src="https://skillicons.dev/icons?i=java,python,js,selenium,html,css,git,github,vscode,idea&perline=10&theme=dark" alt="Java, Python, JavaScript, Selenium, HTML, CSS, Git, GitHub, VS Code e IntelliJ IDEA" />
+  </a>
+</div>
+
+---
+
+## GitHub em números
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarcelinoSoares&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Marcelino Soares" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcelinoSoares&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Linguagens mais usadas por Marcelino Soares" />
+</div>
+
+## Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcelinoSoares&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" alt="Gráfico de contribuições de Marcelino Soares" />
+</div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MarcelinoSoares&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS&abbreviated=true)
+### Vamos construir qualidade desde o início?
+
+Se você acredita em entregas confiáveis, colaboração e melhoria contínua, vamos conversar.
+
+[Conectar no LinkedIn](https://www.linkedin.com/in/marcelinosoares) · [Enviar e-mail](mailto:marcelino.deoliveira91@gmail.com)
 
 </div>
